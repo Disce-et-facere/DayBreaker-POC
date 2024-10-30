@@ -71,4 +71,5 @@ To replicate or expand upon this project:
 1. Clone the repository.
 2. Build and run the Docker containers for the MQTT broker and Python backend:
    ```bash
+   cd backend
    docker-compose up
