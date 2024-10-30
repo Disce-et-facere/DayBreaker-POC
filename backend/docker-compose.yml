@@ -1,0 +1,40 @@
+services:
+  mqtt-broker:
+    build:
+      context: ./mqtt-broker
+      dockerfile: Dockerfile
+    container_name: mqtt-broker
+    ports:
+      - "8883:8883"
+    networks:
+      - backend_network
+    volumes:
+      - ./mqtt-broker/config:/mosquitto/config
+      - ./mqtt-broker/data:/mosquitto/data
+      - ./mqtt-broker/log:/mosquitto/log
+      - ./mqtt-broker/certs:/mosquitto/certs
+    healthcheck:
+      test: ["CMD", "nc", "-z", "localhost", "8883"]
+      interval: 5s
+      timeout: 3s
+      retries: 5
+
+  python-backend:
+    build:
+      context: ./msg-handler
+      dockerfile: Dockerfile
+    container_name: python-backend
+    volumes:
+      - ./msg-handler/DB:/app/DB
+      - ./msg-handler/certs:/app/certs  # Mount duplicate certs directory
+    depends_on:
+      mqtt-broker:
+        condition: service_healthy
+    networks:
+      - backend_network
+    environment:
+      - DATABASE_PATH=/app/DB/database.db
+
+networks:
+  backend_network:
+    driver: bridge

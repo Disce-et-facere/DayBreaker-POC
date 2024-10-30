@@ -1,0 +1,7 @@
+Name: mac
+alias: name
+status: online/null
+position: 0-100
+setting: 0-100
+time_up: 00:00:00
+time_down: 00:00:00

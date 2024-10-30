@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="grey_dark">#A05C18</color>
+    <color name="orange_dark">#ad460a</color>
+    <color name="orange_light">#f77605</color>
+    <color name="Brown_orange">#802E06</color>
+
+    <color name="my_dark_primary">#a82020</color>
+    <color name="my_dark_primary_variant">#E6115D</color>
+    <color name="my_dark_on_primary">#db4307</color>
+    <color name="my_dark_background">#A80505</color>
+    <color name="my_dark_surface">#000000</color>
+    <color name="my_dark_on_background">#db4307</color>
+    <color name="my_dark_on_surface">#DC0B0B</color>
+</resources>
