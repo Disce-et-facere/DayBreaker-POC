@@ -15,7 +15,7 @@ extern const uint8_t client_key_pem_end[] asm("_binary_client_key_end");
 extern const uint8_t ca_cert_pem_start[] asm("_binary_ca_crt_start");
 extern const uint8_t ca_cert_pem_end[] asm("_binary_ca_crt_end");
 
-#define MQTT_BROKER_URI "mqtts://192.168.0.8:8883"
+#define MQTT_BROKER_URI "mqtts://your_ip:8883"
 
 static uint8_t base_mac[6];
 static char device_command[32]; 
