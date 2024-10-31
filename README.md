@@ -5,8 +5,7 @@
 
 ### Overview
 
-This Proof of Concept (PoC) demonstrates an automated drape/curtain control system using an ESP32 Wrover-E with a 28BYJ-48 stepper motor. The system allows scheduled automation, remote control, and real-time monitoring through a Dockerized MQTT broker and a Python backend with SQLite for storing user settings. Secure mTLS commun!
-ication ensures data integrity and privacy, while a minimalistic Android app provides user-friendly control and status updates.
+This Proof of Concept (PoC) demonstrates an automated drape/curtain control system using an ESP32 Wrover-E with a 28BYJ-48 stepper motor. The system allows scheduled automation, remote control, and real-time monitoring through a Dockerized MQTT broker and a Python backend with SQLite for storing user settings. Secure mTLS communication ensures data integrity and privacy, while a minimalistic Android app provides user-friendly control and status updates.
 
 ### Objectives
 
