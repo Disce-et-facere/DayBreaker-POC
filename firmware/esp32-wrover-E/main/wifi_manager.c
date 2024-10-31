@@ -4,8 +4,8 @@
 #include "esp_log.h"
 #include "freertos/event_groups.h"
 
-#define WIFI_SSID "TP-Link_3CB1"
-#define WIFI_PASS "F4mLjKr4"
+#define WIFI_SSID ""
+#define WIFI_PASS ""
 
 static const char *TAG = "WIFI_MANAGER";
 
