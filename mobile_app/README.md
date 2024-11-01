@@ -1,3 +1,5 @@
+# Daybreaker Drapes App
+
 ## Functions (demo)
 Current functions allows for:
 * Pingin backend to recieve connected devices mac address and alias(if it's stored in DB)
@@ -7,10 +9,6 @@ Current functions allows for:
 
 ![android1](https://github.com/user-attachments/assets/7fa12337-0910-4856-903e-ec3b5698d01f)
 ![android2](https://github.com/user-attachments/assets/72b0e254-120c-4b22-a6d9-886e98a9bb0a)
-
-# Daybreaker Drapes App
-
-Welcome to the **Daybreaker Drapes App**! This mobile app allows you to control automated drapes for various rooms in your home, including setting schedules and adjusting drape positions.
 
 ## Project Setup Instructions
 
