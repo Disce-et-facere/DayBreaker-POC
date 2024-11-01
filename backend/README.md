@@ -1,6 +1,6 @@
-# Daybreaker Drapes App Backend
+# Daybreaker-POC Backend
 
-This backend is part of the **Daybreaker Drapes App**, responsible for managing MQTT messages and handling secure communication between devices and the app. Follow these instructions to set up and run the backend.
+This backend is part of the **Daybreaker-POC App**, responsible for managing MQTT messages and handling secure communication between devices and the app. Follow these instructions to set up and run the backend.
 
 ## Project Setup Instructions
 
