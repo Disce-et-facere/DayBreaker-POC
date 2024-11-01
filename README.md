@@ -68,8 +68,6 @@ The architecture focuses on security, scalability, and modularity, with key comp
 
 To replicate or expand upon this project:
 
-1. Clone the repository.
-2. Build and run the Docker containers for the MQTT broker and Python backend:
-   ```bash
-   cd backend
-   docker-compose up
+- [Backend README](./backend/README.md)
+- [Firmware README](./firmware/README.md)
+- [Android App README](./android_app/README.md)
