@@ -8,7 +8,7 @@ https://1drv.ms/v/c/ffe5b772452c545d/EWslNbNru8NPnSGm_VzsCgQBeZ3ohXRZaGwq2AVIbaq
 
 # ESP32-WROVER-E Project Setup in VS Code with ESP-IDF
 
-This guide provides steps to set up and run the ESP32-WROVER-E project in Visual Studio Code (VS Code) using the ESP-IDF extension. This assumes that the project folder has been downloaded and is running from a subfolder within a larger repository.
+This guide provides steps to set up and run the ESP32-WROVER-E project in Visual Studio Code (VS Code) using the ESP-IDF extension. This assumes that the project folder(ESP32-wrover-E has been downloaded and is running in its own esp-idf project.
 
 ## Prerequisites
 
