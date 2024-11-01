@@ -1,3 +1,5 @@
+# DayBreaker-POC App Firmware
+
 ## Functions (demo)
 Current motor functions allows for:
 * Turning the stepper motor 360 degrees clock wise
