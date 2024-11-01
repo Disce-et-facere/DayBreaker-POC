@@ -70,4 +70,4 @@ To replicate or expand upon this project read the following readme's:
 
 - [Backend](./backend/README.md)
 - [Firmware](./firmware/README.md)
-- [Android App](./android_app/README.md)
+- [Mobile App](./android_app/README.md)
