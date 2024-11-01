@@ -1,4 +1,4 @@
-# DayBreaker-POC App Firmware
+# DayBreaker-POC Firmware
 
 ## Functions (demo)
 Current motor functions allows for:
