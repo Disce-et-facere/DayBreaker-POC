@@ -66,8 +66,8 @@ The architecture focuses on security, scalability, and modularity, with key comp
 
 ### Getting Started
 
-To replicate or expand upon this project:
+To replicate or expand upon this project read the following readme's:
 
-- [Backend README](./backend/README.md)
-- [Firmware README](./firmware/README.md)
-- [Android App README](./android_app/README.md)
+- [Backend](./backend/README.md)
+- [Firmware](./firmware/README.md)
+- [Android App](./android_app/README.md)
