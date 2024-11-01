@@ -1,4 +1,4 @@
-# Daybreaker Drapes App
+# Daybreaker-POC Android App
 
 ## Functions (demo)
 Current functions allows for:
