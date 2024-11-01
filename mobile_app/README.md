@@ -1,6 +1,6 @@
 ## Functions
 Current functions allows for:
-* Pingin backend to recieve connected devices mac address device and alias if it's stored
+* Pingin backend to recieve connected devices mac address and alias(if stored in DB)
 * Set Alias for devices(ex Kitchen) in app and send alias to backend for storage 
 * Open Drape action call
 * Close Drape action call
