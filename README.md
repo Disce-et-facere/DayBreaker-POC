@@ -1,6 +1,6 @@
 # Automated Drape/Curtain Control System - PoC
 
-![Daybreaker-presentation](https://github.com/user-attachments/assets/24942d5b-4789-45f0-bc6b-280ac66896ae)
+![Daybreaker-presentation](https://github.com/user-attachments/assets/1ef981f8-8b3b-48e2-822e-627b7b4de370)
 
 ### Overview
 
