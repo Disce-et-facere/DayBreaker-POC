@@ -1,0 +1,4 @@
+{
+    "idf.portWin": "COM3",
+    "cmake.sourceDirectory": "E:/Github/DayBreaker-POC/firmware/esp32-wrover-E"
+}
